@@ -5,14 +5,14 @@ body {
 }
 
 .options {
-	height: 10vh;
+	height: 8vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
 .gContainer {
-	max-height: 90vh;
+	max-height: 82vh;
 	max-width: 100vw;
 	width: 100vw;
 	height: 90vh;
